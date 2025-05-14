@@ -8,7 +8,7 @@ I am Vandana, an Electrical Engineer and Data Analyst/Business Intelligence Anal
 3. [Superstore Returns Analysis](https://github.com/vandanadhakal/Superstore-Return-Analysis)
 
 
-`Some information about me:`
+### `Some information about me:`
 - 📫 How to reach me: vandanadhakal@gmail.com
 
 <!--
