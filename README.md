@@ -9,7 +9,7 @@ I am Vandana, an Electrical Engineer and Data Analyst/Business Intelligence Anal
 
 
 #### `About Me:`
-- 📚 I am trying to upskill my basic Python :py: knowledge to an intermediate level
+- 📚 I am currently upskilling my basic Python knowledge
 - 🔭 Currently working on Zomato Restaurants Data analysis
 - ⚡ Hobbies: Reading, Listening to podcasts, Swimming, Going on a walk, Travelling
 - 🚀 Eager to work in data field in an industry
