@@ -1,6 +1,6 @@
 **Hello 👋 Welcome to my page!**
 
-I am Vandana, an Electrical Engineer and Data Analyst/Business Intelligence Analyst. 
+I am Vandana, an Electrical Engineer and Data Analyst/Business Intelligence Analyst. I have 6+ years of experience in Automotive Validation and Embedded C Software. Aspiring Business Intelligence Analyst/Data Analyst, I have completed 8 projects in Excel/Google Sheets, Tableau, SQL and PowerBI. 
 
 #### Project List
 1. [Cosmetics Data Analysis](https://github.com/vandanadhakal/Cosmetic_Data_Analysis)
@@ -8,11 +8,13 @@ I am Vandana, an Electrical Engineer and Data Analyst/Business Intelligence Anal
 3. [Superstore Returns Analysis](https://github.com/vandanadhakal/Superstore-Return-Analysis)
 
 
-#### `Some Information About Me:`
-- 🔭 Currently working on Zomato Restaurants Data analysis
-- ⚡ Hobbies: Love reading, Listening to podcasts, Swimming :joy:
+#### `About Me:`
 - 
-- 📫 How to reach me: vandanadhakal@gmail.com
+- 📚 I am trying to upskill my basic Python knowledge to an intermediatory level
+- 🔭 Currently working on Zomato Restaurants Data analysis
+- ⚡ Hobbies: Reading, Listening to podcasts, Swimming 
+- 
+- 📫 Reach out to me at: vandanadhakal@gmail.com
 
 <!--
 **vandanadhakal/vandanadhakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
