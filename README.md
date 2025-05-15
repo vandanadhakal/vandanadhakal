@@ -9,10 +9,10 @@ I am Vandana, an Electrical Engineer and Data Analyst/Business Intelligence Anal
 
 
 #### `About Me:`
-- 📚 I am currently upskilling my basic Python knowledge
-- 🔭 Currently working on Zomato Restaurants Data analysis
+- 📚 Currently upskilling my basic Python knowledge
+- 🔭 Working on Zomato Restaurants Data analysis using Tableau
 - ⚡ Hobbies: Reading, Listening to podcasts, Swimming, Going on a walk, Travelling
-- 🚀 Eager to work in an industry that allows me to leverage my past experience and apply my skills in data.
+- 🚀 Eager to work in an industry that allows to leverage my past experience and apply my skills in data.
 - 📫 Reach out to me at: vandanadhakal@gmail.com
 - 💪 Microsoft Excel, Google Spreadsheets, SQL, Tableau, PowerBI, Business Analytics, Embedded C Software, Agile Methodology
 
