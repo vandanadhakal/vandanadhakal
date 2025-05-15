@@ -1,6 +1,6 @@
 **Hello 👋 Welcome to my page!**
 
-I am Vandana, an Electrical Engineer and Data Analyst/Business Intelligence Analyst. I have 6+ years of experience in Automotive Validation and Embedded C Software. Aspiring Business Intelligence Analyst/Data Analyst, I have completed 8 projects in Excel/Google Sheets, Tableau, SQL and PowerBI. I am driven by love 
+I am Vandana, an Electrical Engineer and Data Analyst/Business Intelligence Analyst. I have 6+ years of experience in Automotive Validation and Embedded C Software. Aspiring Business Intelligence Analyst/Data Analyst, I have completed 8 projects in Excel/Google Sheets, Tableau, SQL and PowerBI. I am driven by my love to problem solving.
 
 #### Project List
 1. [Cosmetics Data Analysis](https://github.com/vandanadhakal/Cosmetic_Data_Analysis)
