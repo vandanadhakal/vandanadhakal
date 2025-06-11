@@ -9,7 +9,7 @@ I am Vandana, an Electrical Engineer and Data Analyst/Business Intelligence Anal
 4. [Zomato Restaurant Analysis](https://github.com/vandanadhakal/Zomato-Restaurants-Analysis)
 
 
-#### `About Me:`
+#### `About Me`
 - 📚 Currently upskilling Python and advanced SQL knowledge
 - 🔭 Working on Zomato Restaurants Data analysis using Tableau
 - 🚀 Eager to work in an industry that allows to leverage my past experience and apply my skills in data
