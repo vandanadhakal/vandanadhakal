@@ -18,8 +18,9 @@ I am Vandana, an Electrical Engineer and Data Analyst/Business Intelligence Anal
 - ⚡ Hobbies: Reading, Listening to podcasts, Swimming, Going on a walk, Travelling
 - 💪 Skills: Microsoft Excel, Google Spreadsheets, SQL, Tableau, PowerBI, Business Analytics, Embedded C Software, Agile Methodology
 
-View my TripleTen Business Intelligence Analytics/Data Analytics certificate
-<img src="https://github.com/vandanadhakal/vandanadhakal/blob/main/BIA-Certificate.png"> 
+TripleTen Business Intelligence Analytics certificate
+
+<img src="https://github.com/vandanadhakal/vandanadhakal/blob/main/BIA-Certificate.png = 250x250"> 
 
 [![My Skills](https://skillicons.dev/icons?i=py,postgres,c,fortran,matlab,visualstudio)](https://skillicons.dev)
 <!--
