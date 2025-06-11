@@ -20,7 +20,7 @@ I am Vandana, an Electrical Engineer and Data Analyst/Business Intelligence Anal
 
 TripleTen Business Intelligence Analytics certificate
 
-<img src="https://github.com/vandanadhakal/vandanadhakal/blob/main/BIA-Certificate.png" width="400" height="400"> 
+<img src="https://github.com/vandanadhakal/vandanadhakal/blob/main/BIA-Certificate.png" width="500" height="400"> 
 
 [![My Skills](https://skillicons.dev/icons?i=py,postgres,c,fortran,matlab,visualstudio)](https://skillicons.dev)
 <!--
