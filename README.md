@@ -18,11 +18,11 @@ I am Vandana, an Electrical Engineer and Data Analyst/Business Intelligence Anal
 - ⚡ Hobbies: Reading, Listening to podcasts, Swimming, Going on a walk, Travelling
 - 💪 Skills: Microsoft Excel, Google Spreadsheets, SQL, Tableau, PowerBI, Business Analytics, Embedded C Software, Agile Methodology
 
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,c,fortran,matlab,visualstudio)](https://skillicons.dev)
+
 #### `TripleTen Business Intelligence Analytics Certificate`
 
-<img src="https://github.com/vandanadhakal/vandanadhakal/blob/main/BIA-Certificate.png" width="600" height="400"> 
-
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,c,fortran,matlab,visualstudio)](https://skillicons.dev)
+<img src="https://github.com/vandanadhakal/vandanadhakal/blob/main/BIA-Certificate.png" width="600" height="400">
 <!--
 **vandanadhakal/vandanadhakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
