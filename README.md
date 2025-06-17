@@ -7,6 +7,7 @@ I am Vandana, an Electrical Engineer and Data Analyst/Business Intelligence Anal
 2. [New York city AirBnB Data Analysis](https://github.com/vandanadhakal/New-York-City-AirBnb-Data-Analysis)
 3. [Superstore Returns Analysis](https://github.com/vandanadhakal/Superstore-Return-Analysis)
 4. [Zomato Restaurant Analysis](https://github.com/vandanadhakal/Zomato-Restaurants-Analysis)
+5. [Zuber Chicago Ride Sharing Analysis](https://github.com/vandanadhakal/Zubers-Chicago-Ride-Sharing/tree/main)
 
 
 #### `About Me`
