@@ -10,6 +10,7 @@ My [Resume](https://drive.google.com/file/d/1eKHsiMg1ysIp7q0OLDlMPRTpIloCspjJ/vi
 3. [Superstore Returns Analysis](https://github.com/vandanadhakal/Superstore-Return-Analysis)
 4. [Zomato Restaurant Analysis](https://github.com/vandanadhakal/Zomato-Restaurants-Analysis)
 5. [Zuber Chicago Ride Sharing Database Analysis](https://github.com/vandanadhakal/Zubers-Chicago-Ride-Sharing/tree/main)
+6. [E-commerce Company Business Analytics](https://github.com/vandanadhakal/E-commerce-Company-Business-Analytics)
 
 
 #### `About Me`
