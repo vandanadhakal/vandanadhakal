@@ -5,13 +5,13 @@ I am Vandana, an Electrical Engineer and Data Analyst/Business Intelligence Anal
 My [Resume](https://drive.google.com/file/d/1eKHsiMg1ysIp7q0OLDlMPRTpIloCspjJ/view?usp=sharing)
 
 #### `Project List`
-1. [Zomato Restaurant Analysis](https://github.com/vandanadhakal/Zomato-Restaurants-Analysis)
-2. [Zuber Chicago Ride Sharing Database Analysis](https://github.com/vandanadhakal/Zubers-Chicago-Ride-Sharing/tree/main)
-3. [E-commerce Company Business Analytics](https://github.com/vandanadhakal/E-commerce-Company-Business-Analytics)
-4. [Cosmetics Data Analysis](https://github.com/vandanadhakal/Cosmetic_Data_Analysis)
-5. [New York City AirBnB Data Analysis](https://github.com/vandanadhakal/New-York-City-AirBnb-Data-Analysis)
-6. [Superstore Returns Analysis](https://github.com/vandanadhakal/Superstore-Return-Analysis)
-7. [Superstore Operations and Profitability](https://public.tableau.com/app/profile/vandana.dhakal/viz/SuperstoreAnalysisTableau_17399118621960/3ReturnItems)
+1. [Zomato Restaurant Analysis - Tableau](https://github.com/vandanadhakal/Zomato-Restaurants-Analysis)
+2. [Zuber Chicago Ride Sharing Database Analysis - SQL](https://github.com/vandanadhakal/Zubers-Chicago-Ride-Sharing/tree/main)
+3. [E-commerce Company Business Analytics - Google Spreadsheets](https://github.com/vandanadhakal/E-commerce-Company-Business-Analytics)
+4. [Cosmetics Data Analysis - Tableau](https://github.com/vandanadhakal/Cosmetic_Data_Analysis)
+5. [New York City AirBnB Data Analysis - Microsoft Excel](https://github.com/vandanadhakal/New-York-City-AirBnb-Data-Analysis)
+6. [Superstore Returns Analysis - Tableau](https://github.com/vandanadhakal/Superstore-Return-Analysis)
+7. [Superstore Operations and Profitability - Tableau](https://public.tableau.com/app/profile/vandana.dhakal/viz/SuperstoreAnalysisTableau_17399118621960/3ReturnItems)
 
 
 #### `About Me`
